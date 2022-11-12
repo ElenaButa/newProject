@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class checkAdult {
+
+
+public class checkAdult {
+    public static void main(String[] args) {
+
+    }
+
 }
